@@ -2,7 +2,7 @@ import './globals.css'
 
 export const metadata = {
   title: 'Your Name | Photographer & Filmmaker',
-  description: '東京を拠点に活動するフォトグラファー・映像クリエイター',
+  description: 'テストテキスト',
 }
 
 export default function RootLayout({ children }) {
